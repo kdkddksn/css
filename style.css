@@ -72,7 +72,7 @@ File: Main Css File
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
   min-height: 62px;
-  background-image: linear-gradient(to top, #ffd12a, #ff985a, #ff6ea1, #e073e0, #4f86f7);
+  background-image: linear-gradient(to top, #007adf 5%, #00ecbc 100%);
   box-shadow: 0 0 18px 0 rgba(0, 0, 0, 0.3);
 }
 
@@ -473,7 +473,7 @@ File: Main Css File
     overflow: auto;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
-    background-image: linear-gradient(to top, #ffd12a, #ff985a, #ff6ea1, #e073e0, #4f86f7);
+    background-image: linear-gradient(to top, #007adf 5%, #00ecbc 100%);
   }
   #navigation.open {
     display: block;
