@@ -480,10 +480,10 @@ File: Main Css File
     overflow-y: auto;
   }
   #topnav .has-submenu.active a {
-    color: #26DCEA;
+    color: #d8403c;
   }
-  #topnav .has-submenu.active a:active, #topnav .has-submenu.active a:focus, #topnav .has-submenu.active a i {
-    color: #26DCEA;
+  #topnav background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);has-submenu.active a:active, #topnav .has-submenu.active a:focus, #topnav .has-submenu.active a i {
+    color: #d8403c;
   }
 }
 
@@ -960,7 +960,7 @@ a:focus {
 .icon-list-demo .col-md-4:hover i {
   color: #ffffff;
   background: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.15), 0 1px 0 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -1046,7 +1046,7 @@ a:focus {
 
 .bg-gradient {
   background: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
 }
 
 .bg-primary {
@@ -1180,7 +1180,7 @@ a:focus {
 
 .badge-gradient {
   background: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   color: #ffffff;
 }
 
@@ -1271,7 +1271,7 @@ a:focus {
 .pagination > .active > a:focus,
 .pagination > .active > span:focus,
 .page-item.active .page-link {
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   background
   border-color: #26DCEA;
 }
@@ -1461,7 +1461,7 @@ a:focus {
 
 .btn-gradient {
   background-color: #0BB1BF !important;
-  background-image: linear-gradient(110deg,#04A8FB 20%,#871faf 95%) !important;
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080)!important;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.15), 0 1px 0 0 rgba(0, 0, 0, 0.1);
   color: #ffffff !important;
 }
@@ -1559,8 +1559,8 @@ a:focus {
 }
 
 .btn-info {
-  background-color: #4fbde9;
-  border: 1px solid #4fbde9;
+  background-color: #008080;
+  border: 1px solid #008080;
 }
 
 .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .btn-info.focus, .btn-info:active, .btn-info:focus, .btn-info:hover, .open > .dropdown-toggle.btn-info {
@@ -2406,7 +2406,7 @@ a:focus {
 }
 
 .tabs-vertical-env .nav.tabs-vertical li > a.active {
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   background
   border: 0;
   color: #ffffff;
@@ -2440,7 +2440,7 @@ a:focus {
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
   background: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
 }
 
 /* =============
@@ -3042,7 +3042,7 @@ textarea.form-control {
 
 .select2-container .select2-selection--multiple .select2-selection__choice {
   background-color: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   border: 1px solid transparent;
   color: #ffffff;
   border-radius: 3px;
@@ -3076,7 +3076,7 @@ textarea.form-control {
 
 .autocomplete-selected {
   background-color: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   color: #ffffff;
   cursor: pointer;
 }
@@ -3112,7 +3112,7 @@ textarea.form-control {
 
 .bootstrap-tagsinput .label-info {
   background-color: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   display: inline-block;
   padding: 4px 8px;
   font-size: 13px;
@@ -3156,7 +3156,7 @@ textarea.form-control {
 
 .bootstrap-select > .dropdown-menu > .dropdown-menu li a:hover {
   background-color: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   color: #ffffff;
 }
 
@@ -3243,7 +3243,7 @@ textarea.form-control {
 /* Daterange Picker */
 .daterangepicker td.active, .daterangepicker td.active:hover {
   background: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
 }
 
 .daterangepicker .input-mini.active {
@@ -3266,7 +3266,7 @@ textarea.form-control {
 
 .daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
   background: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   border: 1px solid #26DCEA;
   color: #ffffff;
 }
@@ -3340,12 +3340,12 @@ textarea.form-control {
 
 .wizard > .steps .current a {
   background: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
 }
 
 .wizard > .steps .current a:hover, .wizard > .steps .current a:active {
   background: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
 }
 
 .wizard > .steps .current a:hover .number, .wizard > .steps .current a:active .number {
@@ -3370,7 +3370,7 @@ textarea.form-control {
 
 .wizard > .actions a {
   background: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   border-radius: 2px;
   color: #ffffff;
 }
@@ -3422,7 +3422,7 @@ textarea.form-control {
 .mce-menu-item:hover, .mce-menu-item.mce-selected, .mce-menu-item:focus, .mce-menu-item-normal.mce-active,
 .mce-primary {
   background-color: #26DCEA !important;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%)!important;
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080) !important;
 }
 
 .mce-window-head .mce-title {
@@ -3441,7 +3441,7 @@ textarea.form-control {
 .mce-grid-border a:hover, .mce-grid-border a.mce-active {
   border-color: #26DCEA;
   background: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
 }
 
 /* =============
@@ -3603,7 +3603,7 @@ table.dataTable > tbody > tr.child span.dtr-title {
 .table-rep-plugin table.focus-on tbody tr.focused th, .table-rep-plugin table.focus-on tbody tr.focused td,
 .table-rep-plugin .sticky-table-header {
   background: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   color: #ffffff;
   border-color: #26DCEA;
 }
@@ -3902,7 +3902,7 @@ table.dataTable > tbody > tr.child span.dtr-title {
 
 .fc-state-down, .fc-state-active, .fc-state-disabled {
   background-color: #26DCEA;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   color: #ffffff;
   text-shadow: none;
 }
@@ -4269,7 +4269,7 @@ h3.timeline-title {
   position: relative;
   padding: 30px 20px 25px;
   background-color: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   border-radius: 5px;
 }
 
@@ -4328,7 +4328,7 @@ h3.timeline-title {
 
 .bg-accpunt-pages {
   background-color: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
   padding-bottom: 0;
   min-height: 100px;
 }
@@ -4473,8 +4473,8 @@ h3.timeline-title {
 
 .tilebox-one i {
   background: #0BB1BF;
-  background-image: linear-gradient(110deg,#22a688 10%,#006633 90%);
-  font-size: 24px;
+  background-image: linear-gradient(to right top, #008080, #008080, #008080, #008080, #008080);
+   font-size: 24px;
   height: 50px;
   line-height: 46px;
   width: 50px;
